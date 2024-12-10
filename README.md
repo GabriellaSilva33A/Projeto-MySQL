@@ -5,7 +5,7 @@
 **-- Explicação do fluxo e criação das tabelas**
 
 **1° Tabela - Cliente:**
-Para o cliente conseguir realizar um pedido, solicitamos alguns dados fundamentaies e que depois serão utilizados para a criar a estrutura da nossa tabela-cliente:
+Para o cliente conseguir realizar um pedido, solicitamos alguns dados fundamentais e que depois serão utilizados para criar a estrutura da nossa tabela-cliente:
 <div style="display: block;">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e">
 </div>
@@ -17,7 +17,7 @@ Após o cliente escolher os itens e finalizar o pedido, ele será adicionado em 
 </div>
 
 **3° Tabela - Cozinha:**
-Esse pedido gerado é encaminhado para a cozinha para ser preparado, durante esse processo teremos a seguinte tabela da cozinha:
+Esse pedido gerado é encaminhado para a cozinha onde será preparado, durante esse processo teremos a seguinte tabela da cozinha:
 <div style="display: block;">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/f3cb26d1-a160-4461-bcc3-5942875b623b">
 </div>
