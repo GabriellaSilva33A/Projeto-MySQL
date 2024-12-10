@@ -7,13 +7,13 @@
 **1° Tabela - Cliente:**
 Ao entrar em nosso site solicitamos os dados de nossos fundamentais do cliente que depois serão utilizados para criar a estrutura da nossa tabela-cliente:
 <div style="display: block;">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e">
 </div>
 
 **2° Tabela - Pedido:**
 Após o cliente escolher os itens e finalizar o pedido, ele será adicionado em uma tabela com a seguinte estrutura:
 <div style="display: block;">
-  <img width="387" alt="image" src="https://github.com/user-attachments/assets/c56d58f0-d383-4f12-8575-38ae690dafaf">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/c56d58f0-d383-4f12-8575-38ae690dafaf">
 </div>
 
 **3° Tabela - Cozinha:**
@@ -25,7 +25,7 @@ Esse pedido gerado é encaminhado para a cozinha para ser preparado, durante ess
 **4° Tabela - Motoboy:**
 Então a cozinha atualiza o status do pedido quando finalizado e ele é enviado para o motoboy realizar a entrega, dessa forma temos a seguinte estrutura da nossa tabela-motoboy:
 <div style="display: block;">
-  <img width="410" alt="image" src="https://github.com/user-attachments/assets/0261bd93-2703-439e-9640-f5ec4c2d7475">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/0261bd93-2703-439e-9640-f5ec4c2d7475">
 </div>
 
 
