@@ -6,7 +6,7 @@
 
 **1° Tabela - Cliente:**
 Ao entrar em nosso site solicitamos os dados de nossos fundamentais do cliente que depois serão utilizados para criar a estrutura da nossa tabela-cliente:
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e" align="left">
 
 **2° Tabela - Pedido:**
 Após o cliente escolher os itens e finalizar o pedido, ele será adicionado em uma tabela com a seguinte estrutura:
