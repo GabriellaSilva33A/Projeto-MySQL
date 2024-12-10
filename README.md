@@ -5,7 +5,7 @@
 **-- Explicação do fluxo e criação das tabelas**
 
 **1° Tabela - Cliente:**
-Ao entrar em nosso site solicitamos os dados fundamentais do cliente para realizar um pedido, que depois serão utilizados para criar a estrutura da nossa tabela-cliente:
+Para o cliente conseguir realizar um pedido, solicitamos alguns dados fundamentaies e que depois serão utilizados para a criar a estrutura da nossa tabela-cliente:
 <div style="display: block;">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/a9c264b4-e091-4d6e-965a-14caf6ced13e">
 </div>
