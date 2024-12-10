@@ -17,7 +17,7 @@ Após o cliente escolher os itens e finalizar o pedido, ele será adicionado em 
 </div>
 
 **3° Tabela - Cozinha:**
-Esse pedido gerado é encaminhado para a cozinha onde será preparado, durante esse processo teremos a seguinte tabela da cozinha:
+Esse pedido gerado é encaminhado para a cozinha, onde será preparado. Durante esse processo teremos a seguinte tabela da cozinha:
 <div style="display: block;">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/f3cb26d1-a160-4461-bcc3-5942875b623b">
 </div>
