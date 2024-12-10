@@ -10,7 +10,7 @@ Ao entrar em nosso site solicitamos os dados de nossos fundamentais do cliente q
 
 **2° Tabela - Pedido:**
 Após o cliente escolher os itens e finalizar o pedido, ele será adicionado em uma tabela com a seguinte estrutura:
-<img width="387" alt="image" src="https://github.com/user-attachments/assets/c56d58f0-d383-4f12-8575-38ae690dafaf">
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/c56d58f0-d383-4f12-8575-38ae690dafaf" align="left">
 
 **3° Tabela - Cozinha:**
 Esse pedido gerado é encaminhado para a cozinha para ser preparado, durante esse processo teremos a seguinte tabela da cozinha:
